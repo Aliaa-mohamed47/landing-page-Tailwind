@@ -9,9 +9,9 @@ This project showcases responsive layout techniques, utility-first styling, and 
 
 ```
 Tailwind/
-├── dist/ # Compiled output CSS
 ├── src/
 │ └── css/
+│ └── output.css # Compiled output CSS
 │ └── style.css # Main Tailwind source file
 ├── index.html # Main HTML page
 ├── tailwind.config.js # Tailwind configuration
