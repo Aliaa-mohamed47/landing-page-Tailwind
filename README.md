@@ -1,7 +1,7 @@
 # 🌐 Simple & Responsive Landing Page using Tailwind CSS
 
-A clean and modern **landing page** built using [Tailwind CSS](https://tailwindcss.com/).  
-This project showcases responsive layout techniques, utility-first styling, and organized folder structure.
+ This is my **first project using Tailwind CSS**, showcasing a clean and modern **landing page**.  
+ It demonstrates responsive layout techniques, utility-first styling, and organized folder structure.
 
 🔗 **Live Demo:** [aliaa-mohamed47.github.io/landing-page-Tailwind](https://aliaa-mohamed47.github.io/landing-page-Tailwind/)
 
